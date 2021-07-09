@@ -1,6 +1,3 @@
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
-anaconda-client==1.7.2
-anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1621348054992/work
 anyio @ file:///C:/ci/anyio_1620153167783/work/dist
 appdirs==1.4.4
 asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
