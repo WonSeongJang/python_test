@@ -1,4 +1,3 @@
-anyio @ file:///C:/ci/anyio_1620153167783/work/dist
 appdirs==1.4.4
 asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
 astroid @ file:///C:/ci/astroid_1613500971479/work
